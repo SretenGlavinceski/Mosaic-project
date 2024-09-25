@@ -1,0 +1,2329 @@
+{
+  "(0, 0, 10)": [
+    "images\\bat\\3d1dda7723.jpg"
+  ],
+  "(10, 10, 10)": [
+    "images\\bat\\4c23df5b08.jpg",
+    "images\\bat\\74d55d6d41.jpg",
+    "images\\bat\\98dd1f3d00.jpg"
+  ],
+  "(10, 10, 20)": [
+    "images\\bat\\0315a4b6b7.jpg",
+    "images\\bat\\557b9d9df6.jpg",
+    "images\\bat\\68b39cc449.jpg",
+    "images\\bat\\82a9875c4a.jpg"
+  ],
+  "(10, 120, 100)": [
+    "images\\caterpillar\\2b6b4add5b.jpg"
+  ],
+  "(10, 120, 160)": [
+    "images\\beetle\\0f72117666.jpg",
+    "images\\beetle\\41f55933e6.jpg"
+  ],
+  "(10, 140, 130)": [
+    "images\\beetle\\0f7582cad7.jpg"
+  ],
+  "(10, 160, 220)": [
+    "images\\bee\\82e7b97984.jpg",
+    "images\\bee\\9ade223a4d.jpg"
+  ],
+  "(10, 20, 20)": [
+    "images\\beetle\\711b1b0b99.jpg",
+    "images\\caterpillar\\10a38bcbed.jpg"
+  ],
+  "(10, 30, 40)": [
+    "images\\bison\\74dc1dd32a.jpg"
+  ],
+  "(100, 100, 100)": [
+    "images\\badger\\4c273d12a9.jpg",
+    "images\\cat\\2a40de8365.jpg",
+    "images\\cat\\9d21019336.jpg"
+  ],
+  "(100, 100, 110)": [
+    "images\\antelope\\0fb2e9aa81.jpg",
+    "images\\antelope\\6b26150e67.jpg",
+    "images\\badger\\2e5a00c0a5.jpg",
+    "images\\boar\\1e28d918cf.jpg",
+    "images\\boar\\351fc18170.jpg"
+  ],
+  "(100, 100, 120)": [
+    "images\\chimpanzee\\9bc949203b.jpg"
+  ],
+  "(100, 100, 80)": [
+    "images\\cow\\9c8612ce65.jpg"
+  ],
+  "(100, 100, 90)": [
+    "images\\bison\\9e150d02f9.jpg"
+  ],
+  "(100, 110, 100)": [
+    "images\\boar\\0903d0db72.jpg",
+    "images\\chimpanzee\\054bb376ed.jpg",
+    "images\\cow\\369c4bfa7c.jpg",
+    "images\\cow\\8005f47721.jpg"
+  ],
+  "(100, 110, 110)": [
+    "images\\badger\\047c50963a.jpg",
+    "images\\badger\\5c5d9cb086.jpg",
+    "images\\bear\\283a497e0e.jpg",
+    "images\\chimpanzee\\4a09688fd1.jpg",
+    "images\\cow\\88ce8d773f.jpg"
+  ],
+  "(100, 110, 120)": [
+    "images\\bear\\30f9c0dcd8.jpg",
+    "images\\bison\\5fb564e371.jpg",
+    "images\\cat\\612c521481.jpg",
+    "images\\cockroach\\22b46e503b.jpg",
+    "images\\cow\\7d4b463567.jpg",
+    "images\\coyote\\7de3f2ba74.jpg"
+  ],
+  "(100, 110, 130)": [
+    "images\\bat\\5a5de9561b.jpg",
+    "images\\boar\\5d4baab2e0.jpg"
+  ],
+  "(100, 110, 140)": [
+    "images\\beetle\\255ee9c939.jpg",
+    "images\\butterfly\\2c514531e1.jpg",
+    "images\\butterfly\\3fd3aebc4b.jpg",
+    "images\\dog\\6a5c5cce2c.jpg"
+  ],
+  "(100, 110, 160)": [
+    "images\\bee\\5f4eacc507.jpg"
+  ],
+  "(100, 120, 100)": [
+    "images\\coyote\\232c360323.jpg"
+  ],
+  "(100, 120, 120)": [
+    "images\\bear\\6d4f05236d.jpg",
+    "images\\boar\\4a799151a2.jpg",
+    "images\\boar\\4c9de46c24.jpg",
+    "images\\chimpanzee\\12e3711a55.jpg",
+    "images\\crab\\03a4208397.jpg",
+    "images\\crab\\0a37acd141.jpg",
+    "images\\crow\\7faf24f23c.jpg",
+    "images\\dog\\82a669ccf6.jpg",
+    "images\\dog\\87bfbc889f.jpg"
+  ],
+  "(100, 120, 130)": [
+    "images\\antelope\\73c2ef82e2.jpg",
+    "images\\badger\\1ca97cd058.jpg",
+    "images\\boar\\517c9f6d24.jpg",
+    "images\\butterfly\\2c1d889764.jpg",
+    "images\\cat\\34fb30ecc5.jpg",
+    "images\\cockroach\\3ded9bb960.jpg",
+    "images\\cockroach\\8be08247fc.jpg",
+    "images\\cow\\87fd3b8748.jpg",
+    "images\\coyote\\31a15fab2e.jpg",
+    "images\\coyote\\5ecc7d9008.jpg",
+    "images\\deer\\3d64062237.jpg"
+  ],
+  "(100, 120, 140)": [
+    "images\\badger\\63ecc10a24.jpg",
+    "images\\bat\\8ed76190d8.jpg",
+    "images\\bear\\0f61069510.jpg",
+    "images\\bear\\8cf44a21ba.jpg",
+    "images\\crab\\0a3d16566f.jpg",
+    "images\\crab\\8a8c5babf9.jpg",
+    "images\\crow\\77fefab966.jpg",
+    "images\\deer\\2ac90b7372.jpg",
+    "images\\deer\\7dee0ca20c.jpg",
+    "images\\dog\\17f6784a37.jpg"
+  ],
+  "(100, 120, 150)": [
+    "images\\cat\\00357563a7.jpg",
+    "images\\cat\\057e6db146.jpg",
+    "images\\cockroach\\4053abc3b0.jpg",
+    "images\\cockroach\\5ac3821fa3.jpg"
+  ],
+  "(100, 120, 180)": [
+    "images\\crab\\3eda69a7a1.jpg"
+  ],
+  "(100, 130, 120)": [
+    "images\\chimpanzee\\6cc604e915.jpg",
+    "images\\cow\\96decfc0ff.jpg"
+  ],
+  "(100, 130, 130)": [
+    "images\\antelope\\0fe7076f06.jpg",
+    "images\\bear\\513d459586.jpg",
+    "images\\bear\\5f0ccad194.jpg",
+    "images\\bison\\3e16486ab9.jpg",
+    "images\\bison\\6e58d5608a.jpg",
+    "images\\cat\\31ae8d36b6.jpg"
+  ],
+  "(100, 130, 140)": [
+    "images\\badger\\474f28df0a.jpg",
+    "images\\bear\\22ea4eea68.jpg",
+    "images\\crow\\4df1dc7310.jpg"
+  ],
+  "(100, 130, 150)": [
+    "images\\crow\\9d61244f2a.jpg"
+  ],
+  "(100, 130, 170)": [
+    "images\\cockroach\\04dcd8aa35.jpg",
+    "images\\cockroach\\6cbf7d5e6d.jpg"
+  ],
+  "(100, 140, 120)": [
+    "images\\dog\\5c641a8bde.jpg",
+    "images\\dog\\9ac386dfb6.jpg"
+  ],
+  "(100, 140, 140)": [
+    "images\\cow\\7e29f317b0.jpg",
+    "images\\dog\\2afd300e67.jpg"
+  ],
+  "(100, 140, 160)": [
+    "images\\boar\\4f5b8e247e.jpg"
+  ],
+  "(100, 140, 180)": [
+    "images\\antelope\\0b688923b0.jpg",
+    "images\\cockroach\\01af9577d7.jpg",
+    "images\\cockroach\\5a882d98c6.jpg"
+  ],
+  "(100, 150, 130)": [
+    "images\\antelope\\41f6b61453.jpg",
+    "images\\antelope\\6aa06f252d.jpg",
+    "images\\badger\\2aac5ffd72.jpg",
+    "images\\beetle\\138f5c986e.jpg"
+  ],
+  "(100, 150, 170)": [
+    "images\\bee\\603a820424.jpg"
+  ],
+  "(100, 150, 190)": [
+    "images\\antelope\\6cd126d1c1.jpg",
+    "images\\deer\\3ed90b1ffb.jpg"
+  ],
+  "(100, 160, 150)": [
+    "images\\bear\\7ad4697892.jpg",
+    "images\\caterpillar\\4d0bbbe1f2.jpg"
+  ],
+  "(100, 160, 160)": [
+    "images\\crow\\08a181b048.jpg",
+    "images\\dog\\3fb7d7c4ef.jpg"
+  ],
+  "(100, 160, 200)": [
+    "images\\antelope\\24b29ea96e.jpg"
+  ],
+  "(100, 170, 180)": [
+    "images\\antelope\\8a55e17288.jpg"
+  ],
+  "(100, 180, 160)": [
+    "images\\crow\\9d1cf4c0cf.jpg"
+  ],
+  "(100, 180, 170)": [
+    "images\\dog\\4aacd195b5.jpg"
+  ],
+  "(100, 180, 220)": [
+    "images\\cockroach\\95f054e62f.jpg"
+  ],
+  "(100, 20, 0)": [
+    "images\\dolphin\\3c49678251.jpg"
+  ],
+  "(100, 80, 90)": [
+    "images\\bee\\78c259940c.jpg"
+  ],
+  "(100, 90, 100)": [
+    "images\\bee\\402ec9cd1b.jpg",
+    "images\\chimpanzee\\24a84a90a8.jpg",
+    "images\\chimpanzee\\86ae41968d.jpg"
+  ],
+  "(100, 90, 80)": [
+    "images\\chimpanzee\\2a231cf8a1.jpg"
+  ],
+  "(110, 100, 110)": [
+    "images\\chimpanzee\\8e2552b16f.jpg"
+  ],
+  "(110, 100, 60)": [
+    "images\\dolphin\\0deef83be9.jpg"
+  ],
+  "(110, 110, 100)": [
+    "images\\cockroach\\6f5e4d9070.jpg"
+  ],
+  "(110, 110, 110)": [
+    "images\\badger\\6f6978e81e.jpg",
+    "images\\bear\\9f5fc65189.jpg",
+    "images\\boar\\0d168ffd8a.jpg",
+    "images\\boar\\52fca892e9.jpg"
+  ],
+  "(110, 110, 120)": [
+    "images\\bison\\150de5d9c4.jpg",
+    "images\\bison\\2d033a7d34.jpg",
+    "images\\coyote\\33d985771f.jpg"
+  ],
+  "(110, 110, 130)": [
+    "images\\crab\\497cc8adee.jpg"
+  ],
+  "(110, 110, 60)": [
+    "images\\dolphin\\1a716cd8b3.jpg"
+  ],
+  "(110, 120, 110)": [
+    "images\\antelope\\1b0b0b614b.jpg",
+    "images\\bear\\36a8de3afb.jpg"
+  ],
+  "(110, 120, 120)": [
+    "images\\boar\\9f4587d093.jpg",
+    "images\\cow\\3ecb859180.jpg",
+    "images\\crow\\197c1012ba.jpg",
+    "images\\deer\\1bd462a4d8.jpg",
+    "images\\deer\\4e2321633e.jpg",
+    "images\\deer\\64c2f36152.jpg"
+  ],
+  "(110, 120, 130)": [
+    "images\\antelope\\17a07512e9.jpg",
+    "images\\badger\\59a092f934.jpg",
+    "images\\badger\\630f6e0af4.jpg",
+    "images\\bear\\08e665796d.jpg",
+    "images\\bear\\093836b753.jpg",
+    "images\\bear\\0f6b575750.jpg",
+    "images\\bear\\116d9b7f88.jpg",
+    "images\\bear\\39d27b6e2b.jpg",
+    "images\\bison\\7d214aab4b.jpg",
+    "images\\boar\\1643dbb824.jpg",
+    "images\\crow\\368b89d59d.jpg",
+    "images\\crow\\96a3d9dbd7.jpg",
+    "images\\deer\\0a540b4342.jpg",
+    "images\\dog\\26c7056eda.jpg"
+  ],
+  "(110, 120, 140)": [
+    "images\\boar\\7b435a22dd.jpg",
+    "images\\butterfly\\3c19f4785b.jpg",
+    "images\\cat\\46af339620.jpg",
+    "images\\chimpanzee\\4ebfe2df8e.jpg",
+    "images\\cockroach\\3b800c50d4.jpg",
+    "images\\cockroach\\3ff6355b91.jpg",
+    "images\\cockroach\\9d5882a586.jpg",
+    "images\\coyote\\5e722e5a91.jpg",
+    "images\\coyote\\64fd30d622.jpg",
+    "images\\crab\\504a7a0346.jpg"
+  ],
+  "(110, 120, 90)": [
+    "images\\cat\\8af49688fa.jpg",
+    "images\\cow\\23d5ae3c7f.jpg"
+  ],
+  "(110, 130, 110)": [
+    "images\\caterpillar\\50ec625b8f.jpg"
+  ],
+  "(110, 130, 120)": [
+    "images\\boar\\9d842e6c27.jpg",
+    "images\\caterpillar\\4f787826ad.jpg",
+    "images\\coyote\\004c3aef03.jpg",
+    "images\\coyote\\3a768f9814.jpg"
+  ],
+  "(110, 130, 130)": [
+    "images\\badger\\0798f04ce0.jpg",
+    "images\\bee\\1a0fedad1a.jpg",
+    "images\\boar\\61c314e564.jpg",
+    "images\\boar\\981d244af2.jpg",
+    "images\\chimpanzee\\5fabe85cb5.jpg",
+    "images\\cow\\987aa8b95e.jpg"
+  ],
+  "(110, 130, 140)": [
+    "images\\bat\\6b4b95f0c4.jpg",
+    "images\\bison\\2e29f399bd.jpg",
+    "images\\cow\\177bc31f99.jpg",
+    "images\\cow\\30e10509da.jpg",
+    "images\\cow\\68087b595a.jpg",
+    "images\\coyote\\36f0afcd07.jpg",
+    "images\\coyote\\63f4062ea7.jpg",
+    "images\\deer\\6b4c626340.jpg"
+  ],
+  "(110, 130, 150)": [
+    "images\\antelope\\3a3ea34fb6.jpg",
+    "images\\bear\\6bee43b688.jpg",
+    "images\\bear\\8ab6a06ff9.jpg",
+    "images\\coyote\\39ec92a6f7.jpg",
+    "images\\coyote\\5ccaa39d41.jpg"
+  ],
+  "(110, 130, 160)": [
+    "images\\antelope\\fab6e81536.jpg",
+    "images\\cat\\3f3a2aaef2.jpg",
+    "images\\cat\\71756f7bd0.jpg"
+  ],
+  "(110, 140, 130)": [
+    "images\\boar\\4d216b409a.jpg"
+  ],
+  "(110, 140, 140)": [
+    "images\\cat\\5e07a0666d.jpg",
+    "images\\cat\\68a2e3af59.jpg"
+  ],
+  "(110, 140, 150)": [
+    "images\\bat\\640e1bbb55.jpg"
+  ],
+  "(110, 140, 170)": [
+    "images\\coyote\\79ce7a27bb.jpg"
+  ],
+  "(110, 140, 180)": [
+    "images\\bison\\7f2ef9ab03.jpg",
+    "images\\dog\\9efd18dd6c.jpg"
+  ],
+  "(110, 150, 120)": [
+    "images\\caterpillar\\98ba8cc2ee.jpg"
+  ],
+  "(110, 150, 140)": [
+    "images\\boar\\2fa8d16887.jpg"
+  ],
+  "(110, 150, 150)": [
+    "images\\beetle\\143b7c5d00.jpg",
+    "images\\caterpillar\\057e9fe5b2.jpg",
+    "images\\coyote\\18bf90ba80.jpg"
+  ],
+  "(110, 150, 160)": [
+    "images\\dog\\2a8a6a6050.jpg"
+  ],
+  "(110, 150, 170)": [
+    "images\\antelope\\2d2dd75fb8.jpg",
+    "images\\badger\\63d7c3e6d0.jpg"
+  ],
+  "(110, 150, 180)": [
+    "images\\beetle\\78efbd73a6.jpg"
+  ],
+  "(110, 160, 180)": [
+    "images\\dog\\22f99b4396.jpg"
+  ],
+  "(110, 160, 200)": [
+    "images\\boar\\7bcca83462.jpg",
+    "images\\coyote\\46d2138807.jpg"
+  ],
+  "(110, 170, 150)": [
+    "images\\caterpillar\\63b1ce9e8d.jpg",
+    "images\\caterpillar\\64d895fa85.jpg"
+  ],
+  "(110, 170, 160)": [
+    "images\\butterfly\\5e0bb64200.jpg"
+  ],
+  "(110, 170, 170)": [
+    "images\\bison\\3caa994e3d.jpg",
+    "images\\bison\\46a972d88c.jpg"
+  ],
+  "(110, 190, 160)": [
+    "images\\caterpillar\\2dd74b37fe.jpg"
+  ],
+  "(110, 90, 100)": [
+    "images\\bee\\47a87d7786.jpg",
+    "images\\bee\\957c3736fc.jpg"
+  ],
+  "(110, 90, 40)": [
+    "images\\caterpillar\\8c528b7f1a.jpg"
+  ],
+  "(120, 100, 70)": [
+    "images\\dolphin\\03fbc036a0.jpg"
+  ],
+  "(120, 110, 100)": [
+    "images\\cow\\361e677a43.jpg"
+  ],
+  "(120, 110, 110)": [
+    "images\\bat\\2dba7ed0d9.jpg",
+    "images\\bat\\330e4a8053.jpg",
+    "images\\bear\\048d7b29e3.jpg",
+    "images\\cockroach\\4f72227f5c.jpg",
+    "images\\crow\\08d39d0f4d.jpg"
+  ],
+  "(120, 110, 90)": [
+    "images\\dolphin\\10ad43a18d.jpg"
+  ],
+  "(120, 120, 120)": [
+    "images\\beetle\\44931701fe.jpg",
+    "images\\beetle\\65af975c4f.jpg",
+    "images\\bison\\59c044d6bb.jpg",
+    "images\\coyote\\35a04ac537.jpg",
+    "images\\coyote\\90af12d313.jpg",
+    "images\\crow\\7a171dca50.jpg",
+    "images\\dog\\88dcdf1906.jpg",
+    "images\\dog\\9aeb8c737b.jpg",
+    "images\\dolphin\\27d2bc42a2.jpg"
+  ],
+  "(120, 120, 130)": [
+    "images\\bison\\3c991fec2f.jpg",
+    "images\\boar\\5aa8637cf7.jpg",
+    "images\\cat\\087d293433.jpg",
+    "images\\cat\\39ae72da61.jpg",
+    "images\\dog\\4db9316411.jpg"
+  ],
+  "(120, 130, 110)": [
+    "images\\butterfly\\4d0bb88054.jpg"
+  ],
+  "(120, 130, 120)": [
+    "images\\cow\\46beba7077.jpg",
+    "images\\crow\\2caed0387c.jpg",
+    "images\\crow\\5bb0d903fc.jpg"
+  ],
+  "(120, 130, 130)": [
+    "images\\bat\\16f6af0091.jpg",
+    "images\\bat\\2fa47a2579.jpg",
+    "images\\bee\\797a3a9537.jpg",
+    "images\\cat\\578d493138.jpg",
+    "images\\cow\\7c1df0a13a.jpg",
+    "images\\crow\\61ae3e6346.jpg",
+    "images\\crow\\720bed337f.jpg"
+  ],
+  "(120, 130, 140)": [
+    "images\\antelope\\fc1dd26858.jpg",
+    "images\\beetle\\5a2117fccb.jpg",
+    "images\\beetle\\7f7b2507b5.jpg",
+    "images\\cat\\1a2dce7848.jpg",
+    "images\\chimpanzee\\1b1063f785.jpg",
+    "images\\cockroach\\34e755b97b.jpg",
+    "images\\cow\\0dc9f0e83d.jpg",
+    "images\\cow\\408bb4a1d3.jpg",
+    "images\\coyote\\0b1ae678e9.jpg",
+    "images\\coyote\\9cefc03068.jpg"
+  ],
+  "(120, 130, 150)": [
+    "images\\badger\\86e99c22bc.jpg"
+  ],
+  "(120, 130, 160)": [
+    "images\\bison\\87a5c700ad.jpg"
+  ],
+  "(120, 140, 120)": [
+    "images\\cat\\83e8a824a2.jpg"
+  ],
+  "(120, 140, 130)": [
+    "images\\cat\\6128bd1a84.jpg",
+    "images\\crow\\83ac6b6c8d.jpg",
+    "images\\dog\\2f0043ea55.jpg",
+    "images\\dog\\4ddebbca9a.jpg"
+  ],
+  "(120, 140, 140)": [
+    "images\\antelope\\8bab6ca1d3.jpg",
+    "images\\badger\\3e9f67e828.jpg",
+    "images\\bat\\1fd53c0b98.jpg",
+    "images\\bat\\2db5fafa2d.jpg",
+    "images\\bat\\741fa84ed0.jpg",
+    "images\\bison\\8e34044b98.jpg",
+    "images\\cat\\5aaea25f27.jpg",
+    "images\\chimpanzee\\00981a3b70.jpg",
+    "images\\cow\\4c357a6907.jpg",
+    "images\\deer\\9d40c20845.jpg",
+    "images\\dog\\7a47b70b45.jpg"
+  ],
+  "(120, 140, 150)": [
+    "images\\badger\\30c66e7ad1.jpg",
+    "images\\bison\\3d11fc4521.jpg",
+    "images\\coyote\\2c1cc913aa.jpg",
+    "images\\coyote\\9d13cf4d60.jpg",
+    "images\\crow\\3e8d462116.jpg",
+    "images\\deer\\52ad5e98b0.jpg",
+    "images\\dog\\0df912089d.jpg",
+    "images\\dog\\9a8262798f.jpg"
+  ],
+  "(120, 140, 160)": [
+    "images\\beetle\\29309ff01e.jpg",
+    "images\\cat\\72c56919f9.jpg"
+  ],
+  "(120, 140, 170)": [
+    "images\\bee\\2afadcf34f.jpg"
+  ],
+  "(120, 150, 130)": [
+    "images\\caterpillar\\0e70de7f25.jpg",
+    "images\\chimpanzee\\08adb1cc98.jpg"
+  ],
+  "(120, 150, 140)": [
+    "images\\bat\\323c33dbaf.jpg",
+    "images\\crow\\4dc054d71e.jpg"
+  ],
+  "(120, 150, 150)": [
+    "images\\antelope\\9a58695d48.jpg"
+  ],
+  "(120, 150, 160)": [
+    "images\\dog\\2cfd581819.jpg"
+  ],
+  "(120, 150, 170)": [
+    "images\\antelope\\26ffc1ee1f.jpg",
+    "images\\boar\\13e49ce33a.jpg",
+    "images\\boar\\28aea02d8b.jpg",
+    "images\\boar\\7dbc8fac10.jpg",
+    "images\\coyote\\81f495ab7d.jpg",
+    "images\\deer\\18eebf095c.jpg"
+  ],
+  "(120, 150, 180)": [
+    "images\\antelope\\9c4d85f9d8.jpg",
+    "images\\crow\\09cf92f743.jpg",
+    "images\\crow\\5bbfea04ef.jpg"
+  ],
+  "(120, 150, 200)": [
+    "images\\crab\\0b8367a031.jpg"
+  ],
+  "(120, 160, 140)": [
+    "images\\beetle\\03cb643880.jpg",
+    "images\\cat\\66548aefad.jpg"
+  ],
+  "(120, 160, 150)": [
+    "images\\bat\\57c0849090.jpg"
+  ],
+  "(120, 160, 180)": [
+    "images\\antelope\\0a37838e99.jpg",
+    "images\\antelope\\8b1539144f.jpg"
+  ],
+  "(120, 160, 190)": [
+    "images\\bat\\60e4ed4a35.jpg",
+    "images\\coyote\\6e66339f51.jpg",
+    "images\\coyote\\98d7112d0f.jpg"
+  ],
+  "(120, 170, 150)": [
+    "images\\butterfly\\843a638f47.jpg",
+    "images\\crow\\607e6e0a8e.jpg",
+    "images\\crow\\94be0c5a37.jpg"
+  ],
+  "(120, 180, 200)": [
+    "images\\cow\\05768d38ec.jpg"
+  ],
+  "(120, 90, 40)": [
+    "images\\dolphin\\35bf5a776f.jpg",
+    "images\\dolphin\\4a9798cec8.jpg"
+  ],
+  "(130, 110, 90)": [
+    "images\\deer\\75af3141fa.jpg"
+  ],
+  "(130, 130, 100)": [
+    "images\\crab\\1f60096138.jpg",
+    "images\\crab\\55b247f3fa.jpg"
+  ],
+  "(130, 130, 130)": [
+    "images\\antelope\\9acc1d8400.jpg",
+    "images\\cat\\1f016e1910.jpg",
+    "images\\chimpanzee\\6b69e9e2cd.jpg",
+    "images\\crab\\82d357358c.jpg",
+    "images\\crow\\3a29010611.jpg"
+  ],
+  "(130, 130, 140)": [
+    "images\\bear\\458f3c80a1.jpg",
+    "images\\bee\\517aca5da2.jpg",
+    "images\\bison\\8fce80d5ba.jpg",
+    "images\\coyote\\5fd27b9fe5.jpg",
+    "images\\dolphin\\0eeefa4880.jpg",
+    "images\\dolphin\\15eadebfd3.jpg"
+  ],
+  "(130, 130, 150)": [
+    "images\\dog\\0b6670809d.jpg"
+  ],
+  "(130, 130, 160)": [
+    "images\\beetle\\5fae39498d.jpg",
+    "images\\beetle\\fff3087af1.jpg"
+  ],
+  "(130, 130, 90)": [
+    "images\\cow\\95f848d627.jpg",
+    "images\\dolphin\\21f87d8de0.jpg"
+  ],
+  "(130, 140, 130)": [
+    "images\\cow\\9bf76f7295.jpg",
+    "images\\deer\\06ab7583e7.jpg",
+    "images\\dolphin\\3f437ed2f8.jpg"
+  ],
+  "(130, 140, 140)": [
+    "images\\antelope\\65fd7f96e5.jpg",
+    "images\\butterfly\\49da7810ae.jpg",
+    "images\\cat\\15b23c04b7.jpg",
+    "images\\caterpillar\\01ee56d7db.jpg",
+    "images\\chimpanzee\\8d4f5b7a32.jpg",
+    "images\\crow\\03c7cea31f.jpg",
+    "images\\crow\\7f995e322c.jpg",
+    "images\\dog\\7bee213463.jpg"
+  ],
+  "(130, 140, 150)": [
+    "images\\antelope\\fd085737a4.jpg",
+    "images\\bat\\526e897d68.jpg",
+    "images\\bison\\0cd71800f3.jpg",
+    "images\\bison\\3d657e1eb5.jpg",
+    "images\\bison\\5f3c5cffee.jpg",
+    "images\\bison\\68fe235aec.jpg",
+    "images\\cow\\3f2fba956b.jpg",
+    "images\\coyote\\4ebd97228c.jpg",
+    "images\\crab\\56ddab436a.jpg",
+    "images\\crow\\6d713ab135.jpg"
+  ],
+  "(130, 140, 160)": [
+    "images\\bison\\35e68b0489.jpg",
+    "images\\butterfly\\2e59b6e7c7.jpg",
+    "images\\cow\\2defbeec7d.jpg"
+  ],
+  "(130, 140, 170)": [
+    "images\\bison\\1e727a98f4.jpg",
+    "images\\bison\\2e1e1357b7.jpg"
+  ],
+  "(130, 150, 150)": [
+    "images\\antelope\\27d251fa65.jpg",
+    "images\\beetle\\5afd80bec1.jpg",
+    "images\\chimpanzee\\38c1bc9469.jpg",
+    "images\\cow\\491e05deef.jpg",
+    "images\\crow\\3d828ee706.jpg",
+    "images\\dog\\0ff0ba075e.jpg",
+    "images\\dog\\6be2081479.jpg"
+  ],
+  "(130, 150, 160)": [
+    "images\\antelope\\82e0981104.jpg"
+  ],
+  "(130, 150, 170)": [
+    "images\\cockroach\\9960fd7a5f.jpg",
+    "images\\deer\\6ab943ae35.jpg"
+  ],
+  "(130, 160, 140)": [
+    "images\\cow\\2f714376e6.jpg"
+  ],
+  "(130, 160, 150)": [
+    "images\\antelope\\0c16ef86c0.jpg",
+    "images\\cow\\5d342f46d0.jpg"
+  ],
+  "(130, 160, 160)": [
+    "images\\cow\\4dd710bf1d.jpg",
+    "images\\coyote\\58dc8353c0.jpg",
+    "images\\coyote\\9f1f10fc7b.jpg"
+  ],
+  "(130, 160, 180)": [
+    "images\\antelope\\41d70d1f6b.jpg",
+    "images\\chimpanzee\\05d9b6ee2b.jpg"
+  ],
+  "(130, 160, 190)": [
+    "images\\crab\\2ba8cb98d6.jpg"
+  ],
+  "(130, 160, 200)": [
+    "images\\bee\\5b2a142324.jpg",
+    "images\\bee\\8e2a1d91f8.jpg"
+  ],
+  "(130, 160, 210)": [
+    "images\\cockroach\\36b664fbf6.jpg",
+    "images\\crab\\8b62ebe6e2.jpg"
+  ],
+  "(130, 170, 190)": [
+    "images\\badger\\2c8396c663.jpg"
+  ],
+  "(130, 90, 170)": [
+    "images\\butterfly\\2c8a89664b.jpg"
+  ],
+  "(130, 90, 40)": [
+    "images\\dolphin\\54f3a07925.jpg"
+  ],
+  "(140, 120, 100)": [
+    "images\\cow\\128fc39904.jpg"
+  ],
+  "(140, 120, 80)": [
+    "images\\bat\\461e95198f.jpg"
+  ],
+  "(140, 130, 140)": [
+    "images\\chimpanzee\\08a7290f4d.jpg",
+    "images\\chimpanzee\\9a4c1e2c27.jpg"
+  ],
+  "(140, 130, 40)": [
+    "images\\dolphin\\2c8202dc87.jpg"
+  ],
+  "(140, 140, 130)": [
+    "images\\coyote\\0efc08495b.jpg",
+    "images\\deer\\70e093d09f.jpg"
+  ],
+  "(140, 140, 150)": [
+    "images\\bison\\1e92525212.jpg",
+    "images\\bison\\3ac6b41fff.jpg",
+    "images\\bison\\4a11160cd7.jpg",
+    "images\\bison\\73b10839bc.jpg",
+    "images\\crab\\103bfb5679.jpg",
+    "images\\crab\\28a44015b4.jpg"
+  ],
+  "(140, 140, 180)": [
+    "images\\bee\\2e3d7a7bd4.jpg",
+    "images\\dog\\7ca88b95e5.jpg"
+  ],
+  "(140, 140, 210)": [
+    "images\\butterfly\\4862ffccc5.jpg"
+  ],
+  "(140, 140, 40)": [
+    "images\\dolphin\\16eb90e8df.jpg"
+  ],
+  "(140, 140, 50)": [
+    "images\\dolphin\\47d4251df5.jpg"
+  ],
+  "(140, 150, 120)": [
+    "images\\dolphin\\0a5b50e05e.jpg"
+  ],
+  "(140, 150, 140)": [
+    "images\\chimpanzee\\2cfcde5ead.jpg",
+    "images\\cockroach\\321cc17729.jpg",
+    "images\\crow\\1d15117ae2.jpg"
+  ],
+  "(140, 150, 160)": [
+    "images\\beetle\\596fcfaa43.jpg",
+    "images\\bison\\1fe7411d04.jpg",
+    "images\\bison\\8c3af742c3.jpg",
+    "images\\caterpillar\\21b68b5df1.jpg"
+  ],
+  "(140, 150, 170)": [
+    "images\\coyote\\0058a88ed6.jpg",
+    "images\\dog\\8c6a936c9a.jpg"
+  ],
+  "(140, 150, 200)": [
+    "images\\butterfly\\6ef1439231.jpg",
+    "images\\crab\\6cddf4fea1.jpg"
+  ],
+  "(140, 160, 120)": [
+    "images\\dolphin\\3fb47fda86.jpg"
+  ],
+  "(140, 160, 140)": [
+    "images\\cow\\82f107f486.jpg"
+  ],
+  "(140, 160, 160)": [
+    "images\\bee\\4583aa4975.jpg",
+    "images\\bee\\60d72b6d7f.jpg"
+  ],
+  "(140, 160, 170)": [
+    "images\\beetle\\3e7669bf98.jpg",
+    "images\\bison\\88b723ce90.jpg"
+  ],
+  "(140, 160, 180)": [
+    "images\\dog\\44a1bbc202.jpg",
+    "images\\dog\\4df813f7f1.jpg"
+  ],
+  "(140, 160, 190)": [
+    "images\\crab\\01c3fc5278.jpg"
+  ],
+  "(140, 170, 170)": [
+    "images\\dog\\76bad2abea.jpg"
+  ],
+  "(140, 170, 180)": [
+    "images\\butterfly\\3513bc5551.jpg"
+  ],
+  "(140, 170, 210)": [
+    "images\\cockroach\\7858d4a09e.jpg"
+  ],
+  "(140, 180, 190)": [
+    "images\\antelope\\02f4b3be2d.jpg",
+    "images\\deer\\0f25da5a86.jpg"
+  ],
+  "(140, 190, 190)": [
+    "images\\butterfly\\6a09b0f37d.jpg"
+  ],
+  "(140, 80, 140)": [
+    "images\\butterfly\\903cb5fb73.jpg"
+  ],
+  "(150, 120, 80)": [
+    "images\\dolphin\\4ccbf05766.jpg"
+  ],
+  "(150, 130, 120)": [
+    "images\\crab\\1f6d2f18af.jpg"
+  ],
+  "(150, 140, 110)": [
+    "images\\caterpillar\\3fec6834ae.jpg"
+  ],
+  "(150, 140, 120)": [
+    "images\\dolphin\\8a9ebdfd0b.jpg",
+    "images\\dolphin\\8e5c1793fd.jpg",
+    "images\\dolphin\\90c26654b9.jpg"
+  ],
+  "(150, 140, 140)": [
+    "images\\bat\\47d2c91d9b.jpg",
+    "images\\bison\\1a94573fa2.jpg",
+    "images\\bison\\2fe9812e0d.jpg",
+    "images\\crow\\259fec3fd7.jpg"
+  ],
+  "(150, 140, 60)": [
+    "images\\dolphin\\7ba6fd1fd2.jpg"
+  ],
+  "(150, 150, 100)": [
+    "images\\bear\\3dbd23430d.jpg",
+    "images\\bear\\87a4b68284.jpg"
+  ],
+  "(150, 150, 110)": [
+    "images\\dolphin\\7b796f7fea.jpg"
+  ],
+  "(150, 150, 140)": [
+    "images\\cow\\066fdf665a.jpg"
+  ],
+  "(150, 150, 150)": [
+    "images\\antelope\\95db50fb56.jpg",
+    "images\\bison\\984a5b583d.jpg",
+    "images\\butterfly\\10dd21a05c.jpg",
+    "images\\coyote\\185e168504.jpg",
+    "images\\crab\\51cc8c3bc9.jpg"
+  ],
+  "(150, 150, 160)": [
+    "images\\cat\\4bd8b7789f.jpg",
+    "images\\coyote\\81adfb4d78.jpg"
+  ],
+  "(150, 150, 170)": [
+    "images\\cat\\8d88a86d91.jpg"
+  ],
+  "(150, 160, 130)": [
+    "images\\beetle\\99c2f09107.jpg"
+  ],
+  "(150, 160, 150)": [
+    "images\\cow\\7e7669cc8a.jpg"
+  ],
+  "(150, 160, 160)": [
+    "images\\bison\\5c81a68ac3.jpg",
+    "images\\bison\\66b5df00e3.jpg",
+    "images\\bison\\75ab166a7d.jpg",
+    "images\\cat\\2d7dc1ddb5.jpg",
+    "images\\caterpillar\\6b07eb8e99.jpg",
+    "images\\cockroach\\218f3a3708.jpg"
+  ],
+  "(150, 160, 170)": [
+    "images\\antelope\\61c60311b5.jpg",
+    "images\\caterpillar\\44c52c3be2.jpg",
+    "images\\crow\\7fc98f7b2a.jpg",
+    "images\\dog\\41f5881bb6.jpg"
+  ],
+  "(150, 160, 180)": [
+    "images\\bat\\1dd514de63.jpg",
+    "images\\bear\\1971d6e226.jpg",
+    "images\\cat\\0b54dde5f5.jpg",
+    "images\\cockroach\\5f9819c4b1.jpg"
+  ],
+  "(150, 160, 190)": [
+    "images\\dog\\1d97824ca1.jpg",
+    "images\\dog\\89af0e8454.jpg"
+  ],
+  "(150, 170, 130)": [
+    "images\\cat\\3321ec48a8.jpg"
+  ],
+  "(150, 170, 160)": [
+    "images\\coyote\\162fb4d62e.jpg"
+  ],
+  "(150, 170, 170)": [
+    "images\\badger\\010fce8ee7.jpg",
+    "images\\badger\\06b48e099f.jpg",
+    "images\\dog\\084a6888d7.jpg",
+    "images\\dog\\2a74dd288c.jpg"
+  ],
+  "(150, 170, 180)": [
+    "images\\badger\\0e13bf2bf3.jpg"
+  ],
+  "(150, 170, 210)": [
+    "images\\cockroach\\9f837bfa9f.jpg"
+  ],
+  "(150, 180, 200)": [
+    "images\\antelope\\9e39fc9334.jpg",
+    "images\\cockroach\\54881690b7.jpg"
+  ],
+  "(150, 200, 200)": [
+    "images\\beetle\\5dc296bee2.jpg"
+  ],
+  "(150, 90, 120)": [
+    "images\\bee\\927d38205d.jpg"
+  ],
+  "(160, 100, 80)": [
+    "images\\butterfly\\16b44ef03b.jpg"
+  ],
+  "(160, 110, 10)": [
+    "images\\dolphin\\43a30706a2.jpg"
+  ],
+  "(160, 110, 80)": [
+    "images\\crow\\3bc2b28fdd.jpg",
+    "images\\crow\\8a6716039b.jpg"
+  ],
+  "(160, 140, 110)": [
+    "images\\crow\\0cfbaa338f.jpg",
+    "images\\crow\\6d60806c01.jpg",
+    "images\\dolphin\\2dab1e3035.jpg"
+  ],
+  "(160, 140, 130)": [
+    "images\\deer\\4c6992cc69.jpg",
+    "images\\dolphin\\30fe78ee54.jpg"
+  ],
+  "(160, 150, 130)": [
+    "images\\crow\\5bd195cf29.jpg",
+    "images\\crow\\81def64446.jpg"
+  ],
+  "(160, 150, 140)": [
+    "images\\dolphin\\4b3779f814.jpg"
+  ],
+  "(160, 160, 150)": [
+    "images\\bear\\26f9a8f6e9.jpg"
+  ],
+  "(160, 160, 160)": [
+    "images\\dolphin\\78cf85897b.jpg"
+  ],
+  "(160, 160, 170)": [
+    "images\\bison\\7ba5eee91f.jpg"
+  ],
+  "(160, 160, 200)": [
+    "images\\cockroach\\128833a387.jpg",
+    "images\\cockroach\\551dec40de.jpg"
+  ],
+  "(160, 160, 90)": [
+    "images\\butterfly\\215f5c919b.jpg"
+  ],
+  "(160, 170, 170)": [
+    "images\\bear\\4cb42bf550.jpg",
+    "images\\bear\\9a34b276e2.jpg",
+    "images\\bee\\10c5ebb8c4.jpg",
+    "images\\cow\\3f5c04a48c.jpg",
+    "images\\cow\\8776f48a39.jpg"
+  ],
+  "(160, 170, 180)": [
+    "images\\antelope\\1a3f59ee02.jpg",
+    "images\\bee\\357b607816.jpg",
+    "images\\bison\\79e1610d01.jpg",
+    "images\\cat\\7f923c6676.jpg",
+    "images\\cat\\84db062d1f.jpg",
+    "images\\cat\\98470f6918.jpg",
+    "images\\cat\\9e020b77ac.jpg"
+  ],
+  "(160, 170, 190)": [
+    "images\\bison\\1c4993f09f.jpg"
+  ],
+  "(160, 170, 200)": [
+    "images\\crab\\9ced152535.jpg"
+  ],
+  "(160, 180, 200)": [
+    "images\\dog\\36c2df0788.jpg"
+  ],
+  "(160, 190, 200)": [
+    "images\\beetle\\7d7f6c9750.jpg"
+  ],
+  "(170, 130, 30)": [
+    "images\\dolphin\\4cc653ca8b.jpg"
+  ],
+  "(170, 130, 90)": [
+    "images\\dolphin\\28dba6a409.jpg"
+  ],
+  "(170, 150, 110)": [
+    "images\\crab\\1de5e32b3e.jpg",
+    "images\\crab\\3c63c57a72.jpg"
+  ],
+  "(170, 160, 140)": [
+    "images\\dog\\01c6b7230c.jpg",
+    "images\\dolphin\\7f653cb2fc.jpg"
+  ],
+  "(170, 160, 150)": [
+    "images\\dolphin\\4a50d0bc10.jpg"
+  ],
+  "(170, 160, 160)": [
+    "images\\crow\\5e97037a44.jpg"
+  ],
+  "(170, 160, 170)": [
+    "images\\cockroach\\2a90c93477.jpg",
+    "images\\cockroach\\454fe556e7.jpg"
+  ],
+  "(170, 170, 120)": [
+    "images\\dolphin\\24e5de99be.jpg",
+    "images\\dolphin\\42e2859970.jpg"
+  ],
+  "(170, 170, 170)": [
+    "images\\boar\\4b3234a9cf.jpg",
+    "images\\crab\\0c8b345dc6.jpg",
+    "images\\deer\\8b998cb9ec.jpg"
+  ],
+  "(170, 170, 180)": [
+    "images\\cow\\6496eb14c0.jpg"
+  ],
+  "(170, 170, 190)": [
+    "images\\crab\\15b1fc2157.jpg"
+  ],
+  "(170, 180, 140)": [
+    "images\\dolphin\\73dfd945f8.jpg"
+  ],
+  "(170, 180, 190)": [
+    "images\\antelope\\54a58b5f0a.jpg",
+    "images\\bat\\513bb906a6.jpg",
+    "images\\bison\\60d925696f.jpg",
+    "images\\cat\\9fd544a838.jpg",
+    "images\\dog\\9bd48a19a4.jpg"
+  ],
+  "(170, 180, 200)": [
+    "images\\cockroach\\42cb010423.jpg",
+    "images\\dog\\7f45bd0030.jpg"
+  ],
+  "(170, 190, 200)": [
+    "images\\butterfly\\8c25f34950.jpg"
+  ],
+  "(170, 190, 210)": [
+    "images\\butterfly\\9e9409f4fd.jpg"
+  ],
+  "(170, 190, 230)": [
+    "images\\crab\\58a0e73fa1.jpg"
+  ],
+  "(170, 80, 20)": [
+    "images\\dolphin\\1ca06a9e35.jpg"
+  ],
+  "(180, 110, 100)": [
+    "images\\bee\\3d28692ff1.jpg"
+  ],
+  "(180, 140, 110)": [
+    "images\\dolphin\\6a50aa18cd.jpg"
+  ],
+  "(180, 140, 30)": [
+    "images\\dolphin\\7cc3758d67.jpg",
+    "images\\dolphin\\95ca23c5e0.jpg"
+  ],
+  "(180, 150, 120)": [
+    "images\\dolphin\\66aaecc3f1.jpg"
+  ],
+  "(180, 150, 140)": [
+    "images\\cow\\3846ac7fae.jpg"
+  ],
+  "(180, 160, 100)": [
+    "images\\caterpillar\\2e5eac86d9.jpg"
+  ],
+  "(180, 160, 130)": [
+    "images\\dolphin\\58ddcecd83.jpg"
+  ],
+  "(180, 160, 150)": [
+    "images\\cow\\80f5e8d84a.jpg"
+  ],
+  "(180, 170, 160)": [
+    "images\\cockroach\\4f4da8b7cc.jpg"
+  ],
+  "(180, 180, 170)": [
+    "images\\butterfly\\2c52b24385.jpg",
+    "images\\butterfly\\9affbc09db.jpg"
+  ],
+  "(180, 180, 180)": [
+    "images\\chimpanzee\\8d5f4ac8a9.jpg",
+    "images\\crow\\1d586ca67a.jpg",
+    "images\\crow\\378fc98f4f.jpg",
+    "images\\dog\\8deb324d92.jpg"
+  ],
+  "(180, 180, 190)": [
+    "images\\bison\\5358ba1f24.jpg",
+    "images\\cat\\4c6ff6dae0.jpg",
+    "images\\crab\\8b5424d2ad.jpg"
+  ],
+  "(180, 180, 200)": [
+    "images\\coyote\\0f21cda153.jpg"
+  ],
+  "(180, 190, 180)": [
+    "images\\cat\\354bb2acdf.jpg",
+    "images\\cat\\78359cbe21.jpg"
+  ],
+  "(180, 190, 190)": [
+    "images\\bear\\98efff8440.jpg",
+    "images\\bison\\09fb217ec3.jpg",
+    "images\\butterfly\\91af981d14.jpg"
+  ],
+  "(180, 190, 200)": [
+    "images\\badger\\2a242797a3.jpg",
+    "images\\badger\\68f189620f.jpg",
+    "images\\bear\\25ad0adb55.jpg",
+    "images\\beetle\\5dfc1af2a8.jpg"
+  ],
+  "(180, 190, 210)": [
+    "images\\deer\\82ce24d8fa.jpg"
+  ],
+  "(180, 190, 220)": [
+    "images\\crab\\0615c19b25.jpg"
+  ],
+  "(180, 200, 180)": [
+    "images\\cat\\32cd00f171.jpg"
+  ],
+  "(180, 200, 200)": [
+    "images\\crab\\8a33efacf4.jpg"
+  ],
+  "(180, 200, 220)": [
+    "images\\badger\\68d85c376b.jpg",
+    "images\\cow\\9d5e9db945.jpg"
+  ],
+  "(180, 200, 240)": [
+    "images\\crab\\3efb4f3151.jpg",
+    "images\\crab\\8ca7742d95.jpg"
+  ],
+  "(190, 130, 170)": [
+    "images\\butterfly\\1c1de9b3a2.jpg"
+  ],
+  "(190, 150, 100)": [
+    "images\\crow\\511e0951f8.jpg"
+  ],
+  "(190, 150, 120)": [
+    "images\\butterfly\\2105f72d23.jpg"
+  ],
+  "(190, 150, 60)": [
+    "images\\dolphin\\2eb0feaa3a.jpg"
+  ],
+  "(190, 160, 110)": [
+    "images\\dolphin\\0e7f90818b.jpg"
+  ],
+  "(190, 160, 140)": [
+    "images\\butterfly\\620fc0d86e.jpg"
+  ],
+  "(190, 160, 150)": [
+    "images\\dolphin\\8e8ec91d3e.jpg"
+  ],
+  "(190, 170, 140)": [
+    "images\\cow\\3df89aa7cd.jpg"
+  ],
+  "(190, 170, 240)": [
+    "images\\bee\\5adc0a316b.jpg"
+  ],
+  "(190, 180, 160)": [
+    "images\\antelope\\058fa9a60f.jpg",
+    "images\\crow\\484d3397a2.jpg",
+    "images\\crow\\6dab0b74ff.jpg"
+  ],
+  "(190, 180, 170)": [
+    "images\\bat\\3fa70c519c.jpg"
+  ],
+  "(190, 180, 180)": [
+    "images\\boar\\2bec6d90a6.jpg",
+    "images\\cat\\730d6a8791.jpg",
+    "images\\crow\\2c784b864a.jpg"
+  ],
+  "(190, 190, 180)": [
+    "images\\cat\\094ac674a9.jpg",
+    "images\\cockroach\\02f8f69ddc.jpg",
+    "images\\cockroach\\59bd86e895.jpg",
+    "images\\crab\\2a017fbee0.jpg",
+    "images\\crab\\5f04912e9e.jpg"
+  ],
+  "(190, 190, 190)": [
+    "images\\beetle\\2bf82afaf7.jpg",
+    "images\\beetle\\4cb4b45e31.jpg",
+    "images\\beetle\\514cd025fa.jpg",
+    "images\\beetle\\5739e5efaa.jpg",
+    "images\\beetle\\62cfac2a19.jpg"
+  ],
+  "(190, 190, 200)": [
+    "images\\bear\\506eee4ad2.jpg",
+    "images\\bee\\7c3bc627c6.jpg",
+    "images\\bee\\81c541cae0.jpg",
+    "images\\cockroach\\40507d5042.jpg",
+    "images\\cockroach\\41a787d5b6.jpg",
+    "images\\dog\\7a42ed2c8d.jpg"
+  ],
+  "(190, 200, 200)": [
+    "images\\bat\\7f55635dbb.jpg"
+  ],
+  "(190, 200, 210)": [
+    "images\\bat\\29ac63f736.jpg",
+    "images\\bee\\0fa99039ab.jpg",
+    "images\\bee\\36e6bee909.jpg",
+    "images\\cockroach\\4d0a6f13b4.jpg"
+  ],
+  "(190, 200, 220)": [
+    "images\\cockroach\\72506a4f2c.jpg"
+  ],
+  "(190, 210, 220)": [
+    "images\\bee\\8c4b1f330a.jpg",
+    "images\\beetle\\77c06b1123.jpg",
+    "images\\cockroach\\9b832dbf6f.jpg"
+  ],
+  "(190, 220, 230)": [
+    "images\\beetle\\5298d71dcc.jpg"
+  ],
+  "(20, 130, 110)": [
+    "images\\butterfly\\810c695037.jpg"
+  ],
+  "(20, 140, 130)": [
+    "images\\beetle\\48856ca51b.jpg"
+  ],
+  "(20, 170, 180)": [
+    "images\\bee\\1111feb0ff.jpg"
+  ],
+  "(20, 20, 20)": [
+    "images\\bat\\9a84392cf2.jpg",
+    "images\\bat\\9b7b09154c.jpg",
+    "images\\bear\\5dfb1c44b4.jpg"
+  ],
+  "(20, 30, 20)": [
+    "images\\bat\\616c0dae7f.jpg"
+  ],
+  "(20, 30, 40)": [
+    "images\\bat\\86f12c02c6.jpg",
+    "images\\caterpillar\\3e3c787330.jpg",
+    "images\\caterpillar\\6e7b37162f.jpg"
+  ],
+  "(20, 40, 50)": [
+    "images\\bee\\95c62debad.jpg"
+  ],
+  "(20, 40, 70)": [
+    "images\\bat\\567b1434b3.jpg",
+    "images\\bat\\8a62f5cff4.jpg"
+  ],
+  "(20, 50, 60)": [
+    "images\\badger\\7f3de940fe.jpg"
+  ],
+  "(20, 60, 50)": [
+    "images\\caterpillar\\3e513ad8e6.jpg"
+  ],
+  "(20, 90, 120)": [
+    "images\\butterfly\\13bc40b533.jpg"
+  ],
+  "(20, 90, 90)": [
+    "images\\bat\\73ca4f047e.jpg"
+  ],
+  "(200, 120, 20)": [
+    "images\\dolphin\\58a67204a6.jpg"
+  ],
+  "(200, 140, 20)": [
+    "images\\dolphin\\2f42a299e9.jpg",
+    "images\\dolphin\\9e38d0481c.jpg"
+  ],
+  "(200, 170, 120)": [
+    "images\\crow\\98aa731ab3.jpg"
+  ],
+  "(200, 170, 150)": [
+    "images\\dolphin\\6e01fb1a1b.jpg"
+  ],
+  "(200, 190, 190)": [
+    "images\\crow\\0c1a3fdd20.jpg"
+  ],
+  "(200, 200, 190)": [
+    "images\\beetle\\55aba0a3ac.jpg"
+  ],
+  "(200, 200, 200)": [
+    "images\\badger\\860fea93aa.jpg",
+    "images\\caterpillar\\15f1a5e01b.jpg",
+    "images\\cockroach\\87a1c6d21d.jpg",
+    "images\\deer\\2afff13ccc.jpg"
+  ],
+  "(200, 200, 210)": [
+    "images\\coyote\\2a83af58b0.jpg"
+  ],
+  "(200, 210, 210)": [
+    "images\\bee\\2780aa6c10.jpg",
+    "images\\bee\\5e5f10bcc4.jpg",
+    "images\\cat\\029c926ce9.jpg"
+  ],
+  "(200, 210, 220)": [
+    "images\\crab\\11c7c6b51e.jpg"
+  ],
+  "(200, 210, 230)": [
+    "images\\beetle\\50c20f936f.jpg",
+    "images\\crab\\4d02dfebb4.jpg"
+  ],
+  "(200, 220, 220)": [
+    "images\\bee\\5267f18ec9.jpg"
+  ],
+  "(200, 220, 240)": [
+    "images\\dog\\23c5c07d8d.jpg"
+  ],
+  "(200, 230, 220)": [
+    "images\\butterfly\\37a1b4de80.jpg"
+  ],
+  "(210, 140, 70)": [
+    "images\\crow\\376fae5ad1.jpg"
+  ],
+  "(210, 160, 100)": [
+    "images\\dolphin\\72e629253b.jpg"
+  ],
+  "(210, 170, 130)": [
+    "images\\dolphin\\4bbdcc398e.jpg"
+  ],
+  "(210, 180, 130)": [
+    "images\\dolphin\\0ff19a9b77.jpg"
+  ],
+  "(210, 180, 150)": [
+    "images\\crow\\5feb2100f9.jpg"
+  ],
+  "(210, 190, 150)": [
+    "images\\dolphin\\05b9d482c1.jpg"
+  ],
+  "(210, 190, 170)": [
+    "images\\butterfly\\4dc0e11cdd.jpg"
+  ],
+  "(210, 200, 200)": [
+    "images\\beetle\\5b02ca3767.jpg"
+  ],
+  "(210, 210, 190)": [
+    "images\\butterfly\\60eb7f058d.jpg"
+  ],
+  "(210, 210, 200)": [
+    "images\\antelope\\72e3e735f7.jpg"
+  ],
+  "(210, 210, 210)": [
+    "images\\beetle\\02b34c63a2.jpg",
+    "images\\cockroach\\0e0176b8d2.jpg",
+    "images\\cockroach\\7c54061162.jpg"
+  ],
+  "(210, 210, 220)": [
+    "images\\badger\\5bffbd51cf.jpg",
+    "images\\bee\\4e071e5399.jpg",
+    "images\\cockroach\\92a890f0ec.jpg",
+    "images\\dog\\024a037366.jpg",
+    "images\\dog\\6afa462776.jpg"
+  ],
+  "(210, 220, 230)": [
+    "images\\bee\\520c8528bc.jpg",
+    "images\\bee\\5ccea1aa7f.jpg",
+    "images\\bee\\671f7ca8be.jpg",
+    "images\\cat\\67dc417509.jpg",
+    "images\\caterpillar\\0f651f75c0.jpg"
+  ],
+  "(210, 230, 240)": [
+    "images\\cockroach\\282848eb9b.jpg"
+  ],
+  "(220, 140, 90)": [
+    "images\\crow\\06a9c44c55.jpg"
+  ],
+  "(220, 180, 140)": [
+    "images\\dolphin\\9c555a3801.jpg"
+  ],
+  "(220, 190, 80)": [
+    "images\\dolphin\\9c509aa4d2.jpg",
+    "images\\dolphin\\9d3c271770.jpg"
+  ],
+  "(220, 210, 220)": [
+    "images\\cockroach\\838915ea25.jpg"
+  ],
+  "(220, 220, 220)": [
+    "images\\badger\\8d46358cff.jpg",
+    "images\\crow\\685d6f3c1d.jpg"
+  ],
+  "(220, 220, 230)": [
+    "images\\beetle\\1ae9801eb0.jpg",
+    "images\\beetle\\65e2848c9b.jpg",
+    "images\\cockroach\\0aea14ad46.jpg",
+    "images\\cockroach\\355d879b4e.jpg",
+    "images\\cockroach\\451579fd29.jpg",
+    "images\\coyote\\29a13938a9.jpg",
+    "images\\coyote\\42ce2a0e8c.jpg",
+    "images\\crab\\7d712e2025.jpg",
+    "images\\crab\\84c7171790.jpg",
+    "images\\deer\\03d871997f.jpg",
+    "images\\deer\\9ff53e6e59.jpg"
+  ],
+  "(220, 230, 230)": [
+    "images\\beetle\\0de750893f.jpg",
+    "images\\butterfly\\179b8e3c33.jpg",
+    "images\\caterpillar\\6de8684057.jpg"
+  ],
+  "(220, 230, 240)": [
+    "images\\bear\\0e6a8744de.jpg",
+    "images\\cat\\8aefee4c2c.jpg",
+    "images\\caterpillar\\6bec8d415b.jpg"
+  ],
+  "(230, 170, 10)": [
+    "images\\dolphin\\4a8c89c0a2.jpg",
+    "images\\dolphin\\5e52f5e532.jpg"
+  ],
+  "(230, 210, 160)": [
+    "images\\butterfly\\6bd95d1776.jpg"
+  ],
+  "(230, 210, 200)": [
+    "images\\crow\\495ee7079c.jpg"
+  ],
+  "(230, 230, 230)": [
+    "images\\bee\\8e3037a963.jpg",
+    "images\\beetle\\606253cc40.jpg",
+    "images\\beetle\\93fb82b04b.jpg"
+  ],
+  "(230, 230, 240)": [
+    "images\\cockroach\\0661c8f342.jpg",
+    "images\\cockroach\\2859c1c82c.jpg",
+    "images\\cockroach\\50a79c35fb.jpg",
+    "images\\cockroach\\51b9b6737a.jpg",
+    "images\\cockroach\\5b16d8d281.jpg",
+    "images\\cockroach\\5fb645ea35.jpg",
+    "images\\cockroach\\6f651f4292.jpg",
+    "images\\cockroach\\9a421a3c06.jpg"
+  ],
+  "(230, 240, 230)": [
+    "images\\crab\\89b1cd7401.jpg"
+  ],
+  "(230, 240, 240)": [
+    "images\\bat\\33d648fe94.jpg"
+  ],
+  "(240, 200, 70)": [
+    "images\\dolphin\\8ac5687ca6.jpg"
+  ],
+  "(240, 220, 170)": [
+    "images\\cockroach\\6d93a1a0dd.jpg"
+  ],
+  "(240, 220, 190)": [
+    "images\\butterfly\\9ec9340720.jpg"
+  ],
+  "(240, 240, 240)": [
+    "images\\beetle\\46b0a8555f.jpg",
+    "images\\beetle\\4a63810453.jpg",
+    "images\\cockroach\\1bf78b6cc1.jpg"
+  ],
+  "(240, 240, 250)": [
+    "images\\cockroach\\9520e001e8.jpg"
+  ],
+  "(30, 120, 140)": [
+    "images\\deer\\5db978ce57.jpg"
+  ],
+  "(30, 30, 30)": [
+    "images\\bat\\1585d0c4e5.jpg",
+    "images\\bear\\28f3e554e6.jpg",
+    "images\\bear\\4ab1a3197a.jpg",
+    "images\\cow\\17a29c13f5.jpg",
+    "images\\cow\\9640c80f78.jpg"
+  ],
+  "(30, 30, 40)": [
+    "images\\cat\\9293137b5d.jpg"
+  ],
+  "(30, 40, 40)": [
+    "images\\badger\\26edf44cd9.jpg",
+    "images\\bat\\61f1df47c6.jpg",
+    "images\\chimpanzee\\8fd20d83cc.jpg"
+  ],
+  "(30, 50, 50)": [
+    "images\\boar\\25ec8c79ee.jpg"
+  ],
+  "(30, 50, 60)": [
+    "images\\badger\\378aa5cc58.jpg"
+  ],
+  "(30, 50, 70)": [
+    "images\\cow\\3a95b92996.jpg"
+  ],
+  "(30, 60, 60)": [
+    "images\\bear\\90c8120829.jpg"
+  ],
+  "(30, 60, 70)": [
+    "images\\coyote\\7a9d8d9c66.jpg",
+    "images\\coyote\\8cf5328886.jpg"
+  ],
+  "(30, 80, 80)": [
+    "images\\dog\\5d961159a7.jpg"
+  ],
+  "(30, 80, 90)": [
+    "images\\cat\\0c3d04bcf5.jpg"
+  ],
+  "(30, 90, 60)": [
+    "images\\bee\\14a1eaf657.jpg"
+  ],
+  "(40, 100, 120)": [
+    "images\\boar\\911a9d2f67.jpg"
+  ],
+  "(40, 100, 130)": [
+    "images\\butterfly\\16a79172c2.jpg"
+  ],
+  "(40, 100, 180)": [
+    "images\\cow\\0bc9244dbf.jpg"
+  ],
+  "(40, 120, 100)": [
+    "images\\caterpillar\\4a636d6870.jpg"
+  ],
+  "(40, 120, 120)": [
+    "images\\caterpillar\\2c50e40a8b.jpg"
+  ],
+  "(40, 140, 110)": [
+    "images\\bat\\852ea40aff.jpg"
+  ],
+  "(40, 160, 110)": [
+    "images\\caterpillar\\48eac9ee9c.jpg"
+  ],
+  "(40, 160, 210)": [
+    "images\\dog\\05b151f72d.jpg"
+  ],
+  "(40, 50, 50)": [
+    "images\\bat\\003bd60fa9.jpg",
+    "images\\bat\\3ab1cafd39.jpg",
+    "images\\bat\\866a4779a7.jpg",
+    "images\\beetle\\094b2870d0.jpg",
+    "images\\chimpanzee\\338bfaa30b.jpg"
+  ],
+  "(40, 50, 60)": [
+    "images\\chimpanzee\\47c9b0d085.jpg"
+  ],
+  "(40, 50, 90)": [
+    "images\\cat\\0cfaf08fce.jpg"
+  ],
+  "(40, 60, 50)": [
+    "images\\antelope\\27a5369441.jpg"
+  ],
+  "(40, 60, 70)": [
+    "images\\deer\\63e4606329.jpg"
+  ],
+  "(40, 70, 120)": [
+    "images\\crab\\244ef898cd.jpg"
+  ],
+  "(40, 70, 60)": [
+    "images\\bat\\5e85312fa8.jpg",
+    "images\\butterfly\\799eea3f84.jpg"
+  ],
+  "(40, 70, 80)": [
+    "images\\boar\\79b4862abe.jpg"
+  ],
+  "(40, 80, 130)": [
+    "images\\deer\\65a17edcce.jpg"
+  ],
+  "(40, 80, 60)": [
+    "images\\caterpillar\\5bc772c0bf.jpg"
+  ],
+  "(40, 80, 80)": [
+    "images\\badger\\21ec1b1f1a.jpg"
+  ],
+  "(40, 90, 150)": [
+    "images\\bee\\160cdad8e6.jpg"
+  ],
+  "(40, 90, 180)": [
+    "images\\crab\\1eb3673642.jpg",
+    "images\\crab\\3d7220b4ea.jpg"
+  ],
+  "(50, 100, 100)": [
+    "images\\cow\\24df3def2d.jpg"
+  ],
+  "(50, 100, 130)": [
+    "images\\bison\\82ec723a4f.jpg",
+    "images\\deer\\9d9b14520b.jpg"
+  ],
+  "(50, 100, 160)": [
+    "images\\bee\\759a9528e9.jpg"
+  ],
+  "(50, 100, 70)": [
+    "images\\chimpanzee\\59de383d63.jpg"
+  ],
+  "(50, 100, 80)": [
+    "images\\caterpillar\\7a3c24402a.jpg"
+  ],
+  "(50, 100, 90)": [
+    "images\\butterfly\\8f9c022352.jpg"
+  ],
+  "(50, 110, 100)": [
+    "images\\caterpillar\\7d02ac39d4.jpg"
+  ],
+  "(50, 110, 110)": [
+    "images\\butterfly\\110f709dfb.jpg"
+  ],
+  "(50, 110, 140)": [
+    "images\\bear\\8ded9df224.jpg"
+  ],
+  "(50, 120, 120)": [
+    "images\\caterpillar\\9f1188ab7b.jpg"
+  ],
+  "(50, 130, 150)": [
+    "images\\butterfly\\1c382b3385.jpg"
+  ],
+  "(50, 130, 80)": [
+    "images\\caterpillar\\8ee91b44e0.jpg"
+  ],
+  "(50, 150, 110)": [
+    "images\\caterpillar\\4c0626cd31.jpg"
+  ],
+  "(50, 150, 160)": [
+    "images\\beetle\\063b1929b3.jpg"
+  ],
+  "(50, 160, 140)": [
+    "images\\butterfly\\85e36e035c.jpg"
+  ],
+  "(50, 170, 200)": [
+    "images\\bee\\43c4bde0d3.jpg"
+  ],
+  "(50, 50, 60)": [
+    "images\\badger\\6b36a20a5a.jpg",
+    "images\\boar\\8b56ccd502.jpg"
+  ],
+  "(50, 50, 70)": [
+    "images\\butterfly\\4830c4207b.jpg"
+  ],
+  "(50, 60, 60)": [
+    "images\\badger\\028efe8aab.jpg",
+    "images\\bat\\32fac37649.jpg",
+    "images\\bat\\5b8a9fd24f.jpg",
+    "images\\bat\\80fae36821.jpg",
+    "images\\chimpanzee\\1fb7c985c9.jpg",
+    "images\\chimpanzee\\27ef4ab13d.jpg",
+    "images\\chimpanzee\\52f01dfff0.jpg",
+    "images\\crow\\666df1dde7.jpg"
+  ],
+  "(50, 60, 70)": [
+    "images\\crab\\6bba319305.jpg"
+  ],
+  "(50, 60, 80)": [
+    "images\\deer\\6c359361e8.jpg"
+  ],
+  "(50, 70, 120)": [
+    "images\\crab\\7f65b9bf02.jpg"
+  ],
+  "(50, 70, 170)": [
+    "images\\crab\\97fe281ca4.jpg"
+  ],
+  "(50, 70, 70)": [
+    "images\\chimpanzee\\12c23bf9b8.jpg"
+  ],
+  "(50, 70, 80)": [
+    "images\\deer\\7c7343703c.jpg",
+    "images\\dog\\1c768b0135.jpg"
+  ],
+  "(50, 70, 90)": [
+    "images\\beetle\\6885dfc6de.jpg"
+  ],
+  "(50, 80, 50)": [
+    "images\\badger\\0c29e0107f.jpg"
+  ],
+  "(50, 80, 80)": [
+    "images\\butterfly\\3720ca97bc.jpg"
+  ],
+  "(50, 80, 90)": [
+    "images\\butterfly\\78c0646afd.jpg",
+    "images\\chimpanzee\\1d67a85be8.jpg",
+    "images\\deer\\29e08e7fc1.jpg",
+    "images\\deer\\9b9cd711f5.jpg"
+  ],
+  "(50, 90, 110)": [
+    "images\\bee\\0d562e4829.jpg",
+    "images\\bee\\1cb123c4e9.jpg"
+  ],
+  "(50, 90, 130)": [
+    "images\\bee\\45af75e0da.jpg"
+  ],
+  "(50, 90, 150)": [
+    "images\\badger\\0836f4eb45.jpg"
+  ],
+  "(50, 90, 60)": [
+    "images\\boar\\51c7d65b34.jpg",
+    "images\\boar\\68b228e6ca.jpg"
+  ],
+  "(50, 90, 90)": [
+    "images\\bison\\1ff9aec98d.jpg",
+    "images\\bison\\4296ac8525.jpg"
+  ],
+  "(60, 100, 100)": [
+    "images\\coyote\\140e11d384.jpg",
+    "images\\coyote\\88bdf2941b.jpg"
+  ],
+  "(60, 100, 110)": [
+    "images\\bear\\25e21b4f3e.jpg",
+    "images\\bear\\2a868ca175.jpg"
+  ],
+  "(60, 100, 150)": [
+    "images\\bee\\603c18f907.jpg"
+  ],
+  "(60, 100, 80)": [
+    "images\\caterpillar\\76f7cd4741.jpg",
+    "images\\deer\\3af63d96ba.jpg",
+    "images\\deer\\5f80ee6618.jpg"
+  ],
+  "(60, 100, 90)": [
+    "images\\badger\\10a6d3492c.jpg"
+  ],
+  "(60, 110, 120)": [
+    "images\\dog\\4fdbeb98ad.jpg"
+  ],
+  "(60, 110, 90)": [
+    "images\\badger\\6e0e5b7cdf.jpg"
+  ],
+  "(60, 120, 100)": [
+    "images\\bear\\1b890605d5.jpg",
+    "images\\bear\\4e7dc3eb5f.jpg"
+  ],
+  "(60, 120, 130)": [
+    "images\\antelope\\03d7fc0888.jpg",
+    "images\\butterfly\\91cc6f8ef4.jpg"
+  ],
+  "(60, 120, 160)": [
+    "images\\deer\\9f755013b4.jpg"
+  ],
+  "(60, 120, 170)": [
+    "images\\antelope\\1d3c6105c9.jpg",
+    "images\\boar\\287ebb3999.jpg",
+    "images\\boar\\583c3a1d3e.jpg"
+  ],
+  "(60, 130, 110)": [
+    "images\\bear\\290cd7afc5.jpg",
+    "images\\bear\\5687a6bcec.jpg"
+  ],
+  "(60, 130, 150)": [
+    "images\\dog\\7c43d5ca9e.jpg"
+  ],
+  "(60, 130, 190)": [
+    "images\\bee\\3fbdf8c63c.jpg"
+  ],
+  "(60, 130, 90)": [
+    "images\\chimpanzee\\80e231dd02.jpg"
+  ],
+  "(60, 140, 120)": [
+    "images\\caterpillar\\26d06444c7.jpg",
+    "images\\caterpillar\\8f898d9281.jpg"
+  ],
+  "(60, 140, 140)": [
+    "images\\antelope\\61f99c8534.jpg"
+  ],
+  "(60, 150, 80)": [
+    "images\\butterfly\\48c662d1ce.jpg"
+  ],
+  "(60, 160, 120)": [
+    "images\\beetle\\6670d76613.jpg"
+  ],
+  "(60, 170, 210)": [
+    "images\\bee\\43aebfb444.jpg"
+  ],
+  "(60, 180, 230)": [
+    "images\\cat\\6fe978c917.jpg"
+  ],
+  "(60, 40, 60)": [
+    "images\\bat\\6da14f603d.jpg"
+  ],
+  "(60, 50, 40)": [
+    "images\\crow\\4dcac6039e.jpg"
+  ],
+  "(60, 60, 60)": [
+    "images\\boar\\2c23b537e2.jpg"
+  ],
+  "(60, 60, 70)": [
+    "images\\beetle\\05f1f4c7c8.jpg",
+    "images\\cat\\11883c3dd8.jpg",
+    "images\\chimpanzee\\281af01da9.jpg"
+  ],
+  "(60, 70, 70)": [
+    "images\\badger\\00f56e5c92.jpg",
+    "images\\chimpanzee\\25d2016740.jpg",
+    "images\\chimpanzee\\2d6277e3c3.jpg"
+  ],
+  "(60, 70, 80)": [
+    "images\\badger\\70ad9eb57e.jpg",
+    "images\\badger\\87d1db4af3.jpg"
+  ],
+  "(60, 70, 90)": [
+    "images\\antelope\\7e12bc4942.jpg",
+    "images\\bee\\0ec9efe6d8.jpg",
+    "images\\bee\\9e3c9b326e.jpg"
+  ],
+  "(60, 80, 110)": [
+    "images\\bat\\733e36d245.jpg"
+  ],
+  "(60, 80, 120)": [
+    "images\\boar\\2e85f933b3.jpg"
+  ],
+  "(60, 80, 80)": [
+    "images\\deer\\1d4e75e01e.jpg",
+    "images\\deer\\73ab2632db.jpg"
+  ],
+  "(60, 80, 90)": [
+    "images\\boar\\183f0cd1c2.jpg",
+    "images\\butterfly\\600bce49ef.jpg",
+    "images\\crab\\7aaa3f657b.jpg"
+  ],
+  "(60, 90, 100)": [
+    "images\\chimpanzee\\9f1cfcc240.jpg",
+    "images\\crab\\8fd3cea7b7.jpg",
+    "images\\deer\\2bfd74862a.jpg"
+  ],
+  "(60, 90, 110)": [
+    "images\\beetle\\6543ff7e93.jpg",
+    "images\\beetle\\727ce16ec3.jpg",
+    "images\\chimpanzee\\0cb5551052.jpg",
+    "images\\deer\\36e6c35541.jpg",
+    "images\\deer\\66bf4aa93e.jpg"
+  ],
+  "(60, 90, 80)": [
+    "images\\badger\\14d27983c0.jpg",
+    "images\\badger\\2a8b186a9d.jpg"
+  ],
+  "(60, 90, 90)": [
+    "images\\deer\\03ffd87c9f.jpg"
+  ],
+  "(70, 100, 100)": [
+    "images\\badger\\147a5daad3.jpg",
+    "images\\chimpanzee\\8bad34ec63.jpg",
+    "images\\cow\\3d64a8f546.jpg",
+    "images\\deer\\69ad919c4f.jpg"
+  ],
+  "(70, 100, 110)": [
+    "images\\bear\\831f7bd81b.jpg",
+    "images\\deer\\7e63e28af9.jpg"
+  ],
+  "(70, 100, 120)": [
+    "images\\beetle\\2fecd5e844.jpg",
+    "images\\beetle\\829e17c31b.jpg",
+    "images\\boar\\4f712dd94c.jpg"
+  ],
+  "(70, 100, 80)": [
+    "images\\boar\\3fc82d21eb.jpg",
+    "images\\caterpillar\\1ac6e9e115.jpg"
+  ],
+  "(70, 100, 90)": [
+    "images\\bear\\4286c87550.jpg"
+  ],
+  "(70, 110, 100)": [
+    "images\\beetle\\508a3a9356.jpg",
+    "images\\beetle\\7413365c3f.jpg",
+    "images\\deer\\8d2b10f420.jpg"
+  ],
+  "(70, 110, 110)": [
+    "images\\boar\\549c6255cb.jpg",
+    "images\\caterpillar\\0db5ad156e.jpg"
+  ],
+  "(70, 110, 120)": [
+    "images\\antelope\\68eb12a751.jpg"
+  ],
+  "(70, 110, 140)": [
+    "images\\cat\\0d0d6d90d8.jpg"
+  ],
+  "(70, 110, 90)": [
+    "images\\caterpillar\\4ccbe38098.jpg",
+    "images\\chimpanzee\\1d03d6b46f.jpg"
+  ],
+  "(70, 120, 110)": [
+    "images\\bear\\561c2bfe97.jpg",
+    "images\\cow\\64f159e8ff.jpg"
+  ],
+  "(70, 120, 120)": [
+    "images\\chimpanzee\\5d934fa43a.jpg"
+  ],
+  "(70, 120, 200)": [
+    "images\\crab\\56a9e1e52c.jpg"
+  ],
+  "(70, 120, 80)": [
+    "images\\bee\\88ad9444d0.jpg",
+    "images\\caterpillar\\41bdf5ba27.jpg",
+    "images\\caterpillar\\7e94ff74af.jpg"
+  ],
+  "(70, 120, 90)": [
+    "images\\butterfly\\409ab5f2f9.jpg"
+  ],
+  "(70, 130, 110)": [
+    "images\\caterpillar\\89eeb3fb5a.jpg",
+    "images\\chimpanzee\\2f73c07c44.jpg",
+    "images\\chimpanzee\\83eb6e13c0.jpg"
+  ],
+  "(70, 130, 130)": [
+    "images\\butterfly\\60e6114a8a.jpg"
+  ],
+  "(70, 130, 140)": [
+    "images\\caterpillar\\7f62c0c57a.jpg",
+    "images\\crab\\044edccd83.jpg"
+  ],
+  "(70, 140, 110)": [
+    "images\\caterpillar\\0f43ca915d.jpg"
+  ],
+  "(70, 140, 120)": [
+    "images\\caterpillar\\34db02880e.jpg",
+    "images\\caterpillar\\3deb656a30.jpg"
+  ],
+  "(70, 140, 130)": [
+    "images\\butterfly\\1c97438e96.jpg",
+    "images\\butterfly\\63a57d9527.jpg"
+  ],
+  "(70, 150, 110)": [
+    "images\\beetle\\687486f1cb.jpg"
+  ],
+  "(70, 150, 120)": [
+    "images\\cow\\3e7a900953.jpg"
+  ],
+  "(70, 150, 130)": [
+    "images\\bee\\55ca0c7f9c.jpg",
+    "images\\caterpillar\\52da799ec8.jpg"
+  ],
+  "(70, 160, 100)": [
+    "images\\caterpillar\\061f28e3af.jpg",
+    "images\\caterpillar\\4e79b3fbec.jpg"
+  ],
+  "(70, 190, 130)": [
+    "images\\bee\\462c97a5db.jpg",
+    "images\\bee\\771c3186af.jpg"
+  ],
+  "(70, 50, 80)": [
+    "images\\crab\\99bafd36a8.jpg"
+  ],
+  "(70, 60, 60)": [
+    "images\\chimpanzee\\32dcf61a3d.jpg",
+    "images\\chimpanzee\\52d3612c8a.jpg"
+  ],
+  "(70, 70, 70)": [
+    "images\\badger\\4e04eaba81.jpg",
+    "images\\cat\\6a5e9eac29.jpg",
+    "images\\chimpanzee\\23ccff6b83.jpg"
+  ],
+  "(70, 70, 90)": [
+    "images\\boar\\481db3c9bd.jpg"
+  ],
+  "(70, 80, 100)": [
+    "images\\boar\\0b2e935388.jpg",
+    "images\\cat\\124eecb74f.jpg",
+    "images\\cat\\6296ca5ccf.jpg"
+  ],
+  "(70, 80, 70)": [
+    "images\\coyote\\82b0cab95a.jpg",
+    "images\\deer\\9d36044157.jpg"
+  ],
+  "(70, 80, 80)": [
+    "images\\bear\\8e7bbfe4df.jpg",
+    "images\\boar\\3c34dc709e.jpg",
+    "images\\boar\\640adadebc.jpg",
+    "images\\dog\\58b4804b9e.jpg"
+  ],
+  "(70, 80, 90)": [
+    "images\\badger\\77bbc33783.jpg",
+    "images\\bear\\6da5c2a437.jpg",
+    "images\\chimpanzee\\41c7c96c92.jpg",
+    "images\\chimpanzee\\489b21e13f.jpg",
+    "images\\crow\\83b28a30aa.jpg",
+    "images\\crow\\85e5dcd314.jpg"
+  ],
+  "(70, 90, 100)": [
+    "images\\boar\\7f1d39763e.jpg",
+    "images\\cat\\4815f8dfaa.jpg"
+  ],
+  "(70, 90, 110)": [
+    "images\\bear\\039b2ae790.jpg",
+    "images\\bison\\1a993de5a8.jpg",
+    "images\\bison\\50ec617e59.jpg",
+    "images\\chimpanzee\\73f45ea23f.jpg",
+    "images\\deer\\8f761983cd.jpg"
+  ],
+  "(70, 90, 130)": [
+    "images\\beetle\\0d46406b7c.jpg",
+    "images\\cockroach\\03ff929501.jpg"
+  ],
+  "(70, 90, 140)": [
+    "images\\cat\\5a5cdbdc6b.jpg",
+    "images\\cat\\76273ddb00.jpg"
+  ],
+  "(70, 90, 80)": [
+    "images\\chimpanzee\\700d610531.jpg",
+    "images\\chimpanzee\\76bb0fb386.jpg",
+    "images\\crow\\1ecc081899.jpg"
+  ],
+  "(70, 90, 90)": [
+    "images\\badger\\51f50a9015.jpg",
+    "images\\bat\\97a1e99f6c.jpg",
+    "images\\deer\\6cbe6369cf.jpg"
+  ],
+  "(80, 100, 100)": [
+    "images\\bison\\02116e752c.jpg",
+    "images\\cat\\77dee19720.jpg",
+    "images\\crow\\1bded6ea70.jpg"
+  ],
+  "(80, 100, 110)": [
+    "images\\antelope\\34e5155c46.jpg",
+    "images\\cow\\8dc75d04ac.jpg",
+    "images\\crab\\1e2b79379b.jpg",
+    "images\\crab\\3dcd66a4a7.jpg"
+  ],
+  "(80, 100, 120)": [
+    "images\\antelope\\6fb2619e84.jpg",
+    "images\\badger\\648af59ce9.jpg",
+    "images\\bison\\17fd28dbd4.jpg",
+    "images\\coyote\\6d9a76149f.jpg",
+    "images\\deer\\49f7fbe0b0.jpg"
+  ],
+  "(80, 100, 130)": [
+    "images\\antelope\\37fccb303f.jpg",
+    "images\\bison\\2e25157a7f.jpg",
+    "images\\boar\\62aaa0057f.jpg"
+  ],
+  "(80, 100, 90)": [
+    "images\\badger\\173fedc818.jpg",
+    "images\\chimpanzee\\0b30d5c395.jpg",
+    "images\\chimpanzee\\11fe61ae70.jpg",
+    "images\\dog\\0d33157df8.jpg",
+    "images\\dog\\63b74efb32.jpg"
+  ],
+  "(80, 110, 100)": [
+    "images\\caterpillar\\05f54f4b9c.jpg",
+    "images\\caterpillar\\4c6e63c839.jpg"
+  ],
+  "(80, 110, 110)": [
+    "images\\bear\\1eda26b7f5.jpg",
+    "images\\butterfly\\8c44899790.jpg"
+  ],
+  "(80, 110, 120)": [
+    "images\\caterpillar\\5c475568d9.jpg",
+    "images\\cow\\85ebd9b6f4.jpg",
+    "images\\crab\\57f3c20f3e.jpg"
+  ],
+  "(80, 110, 130)": [
+    "images\\coyote\\2dd3390eef.jpg"
+  ],
+  "(80, 110, 140)": [
+    "images\\antelope\\fc6545699d.jpg"
+  ],
+  "(80, 110, 150)": [
+    "images\\bee\\356ff70eab.jpg",
+    "images\\bee\\8af6a1eacd.jpg"
+  ],
+  "(80, 110, 160)": [
+    "images\\bat\\499be57e10.jpg"
+  ],
+  "(80, 110, 170)": [
+    "images\\crab\\21cfefa411.jpg",
+    "images\\crab\\48e8eb8c1e.jpg"
+  ],
+  "(80, 120, 100)": [
+    "images\\boar\\89d3a108ef.jpg",
+    "images\\cow\\2515fc48ed.jpg",
+    "images\\deer\\47e15465e6.jpg"
+  ],
+  "(80, 120, 110)": [
+    "images\\antelope\\7cf6c0e8c0.jpg",
+    "images\\bear\\86581a8ae9.jpg",
+    "images\\boar\\343c23952b.jpg"
+  ],
+  "(80, 120, 120)": [
+    "images\\antelope\\1d556456dc.jpg",
+    "images\\dog\\0be3797d3d.jpg"
+  ],
+  "(80, 120, 130)": [
+    "images\\butterfly\\914e36917d.jpg",
+    "images\\dog\\7b0c4e73fd.jpg"
+  ],
+  "(80, 120, 160)": [
+    "images\\bee\\6dc58e2893.jpg"
+  ],
+  "(80, 120, 90)": [
+    "images\\caterpillar\\1f67ad9681.jpg"
+  ],
+  "(80, 130, 100)": [
+    "images\\bear\\7c4f6d1f97.jpg"
+  ],
+  "(80, 130, 110)": [
+    "images\\bison\\4d50fcf8a7.jpg",
+    "images\\deer\\2b14e03090.jpg"
+  ],
+  "(80, 130, 120)": [
+    "images\\cow\\8e5ebe9684.jpg"
+  ],
+  "(80, 130, 170)": [
+    "images\\antelope\\0b1a3af197.jpg",
+    "images\\antelope\\0e17715606.jpg"
+  ],
+  "(80, 140, 100)": [
+    "images\\butterfly\\5a094c5a36.jpg"
+  ],
+  "(80, 140, 120)": [
+    "images\\chimpanzee\\40b6b28776.jpg",
+    "images\\chimpanzee\\7e1abb3aa9.jpg",
+    "images\\coyote\\0a151f5c78.jpg"
+  ],
+  "(80, 140, 130)": [
+    "images\\antelope\\71e7414274.jpg",
+    "images\\badger\\285fa8e668.jpg",
+    "images\\deer\\66c58b431f.jpg"
+  ],
+  "(80, 140, 140)": [
+    "images\\bee\\671dd289e7.jpg",
+    "images\\bison\\133ca596fe.jpg",
+    "images\\bison\\6ff12c928f.jpg"
+  ],
+  "(80, 140, 160)": [
+    "images\\dog\\0a73823599.jpg"
+  ],
+  "(80, 140, 170)": [
+    "images\\cockroach\\134e3b63f4.jpg"
+  ],
+  "(80, 150, 100)": [
+    "images\\butterfly\\88cb3b58df.jpg"
+  ],
+  "(80, 150, 110)": [
+    "images\\cat\\81b58d7d07.jpg"
+  ],
+  "(80, 150, 170)": [
+    "images\\butterfly\\7af84c6e5a.jpg"
+  ],
+  "(80, 160, 140)": [
+    "images\\beetle\\5c3e299635.jpg"
+  ],
+  "(80, 180, 140)": [
+    "images\\caterpillar\\9b89be4a98.jpg"
+  ],
+  "(80, 190, 220)": [
+    "images\\bee\\6da86c5015.jpg"
+  ],
+  "(80, 60, 50)": [
+    "images\\cow\\098c4da6d0.jpg"
+  ],
+  "(80, 80, 100)": [
+    "images\\boar\\12c58c5e8c.jpg",
+    "images\\crab\\3bdf0986c4.jpg"
+  ],
+  "(80, 80, 70)": [
+    "images\\chimpanzee\\52b631552c.jpg"
+  ],
+  "(80, 80, 80)": [
+    "images\\bat\\2d028b789d.jpg",
+    "images\\butterfly\\11ccf63df4.jpg",
+    "images\\butterfly\\26c0074cef.jpg",
+    "images\\coyote\\0ff564b311.jpg",
+    "images\\coyote\\1e4417e510.jpg"
+  ],
+  "(80, 80, 90)": [
+    "images\\badger\\0cf04d0dab.jpg",
+    "images\\badger\\315c444990.jpg",
+    "images\\badger\\709f331442.jpg",
+    "images\\bat\\2f7c6c7cd5.jpg",
+    "images\\bison\\8e6adbdc40.jpg",
+    "images\\cow\\1bdb6f9696.jpg"
+  ],
+  "(80, 90, 100)": [
+    "images\\bat\\7e7b7d9ed7.jpg",
+    "images\\bear\\04e5d04320.jpg",
+    "images\\bear\\1ebb88dff2.jpg",
+    "images\\bear\\50de227a21.jpg",
+    "images\\bear\\8fccd0fedd.jpg"
+  ],
+  "(80, 90, 110)": [
+    "images\\bat\\57f9d0f848.jpg",
+    "images\\cat\\71c2375c64.jpg",
+    "images\\coyote\\99a28cfab0.jpg",
+    "images\\deer\\36c8c857a3.jpg",
+    "images\\deer\\64d3e5a6c0.jpg"
+  ],
+  "(80, 90, 120)": [
+    "images\\crab\\70a7d96611.jpg"
+  ],
+  "(80, 90, 80)": [
+    "images\\coyote\\4f33c939db.jpg"
+  ],
+  "(80, 90, 90)": [
+    "images\\bat\\2bcd2a1dd7.jpg",
+    "images\\chimpanzee\\0f933419b4.jpg",
+    "images\\chimpanzee\\28d0153bdc.jpg",
+    "images\\cow\\6cccda21bb.jpg",
+    "images\\cow\\7d42f0e881.jpg",
+    "images\\deer\\0c53b142f8.jpg",
+    "images\\dog\\62ebcbaf99.jpg"
+  ],
+  "(90, 100, 100)": [
+    "images\\beetle\\9977af1a6f.jpg",
+    "images\\chimpanzee\\05ffb1984e.jpg",
+    "images\\chimpanzee\\39e16108e1.jpg",
+    "images\\chimpanzee\\97ac23148b.jpg",
+    "images\\coyote\\1a99ace1fe.jpg",
+    "images\\coyote\\23dcefd769.jpg",
+    "images\\deer\\4d8f0a4d6f.jpg"
+  ],
+  "(90, 100, 110)": [
+    "images\\antelope\\0ee903ea13.jpg",
+    "images\\antelope\\2c11ae88c0.jpg",
+    "images\\badger\\37a4e3ef89.jpg",
+    "images\\caterpillar\\2f2b464cc6.jpg",
+    "images\\crab\\15a262b4eb.jpg",
+    "images\\deer\\5c3ecf6b76.jpg",
+    "images\\deer\\6bf0b72f45.jpg"
+  ],
+  "(90, 100, 120)": [
+    "images\\bison\\862e2c6379.jpg",
+    "images\\boar\\17c67e42a7.jpg",
+    "images\\cat\\636b432421.jpg"
+  ],
+  "(90, 100, 130)": [
+    "images\\bear\\5db7b4c807.jpg",
+    "images\\coyote\\030b91da73.jpg"
+  ],
+  "(90, 100, 140)": [
+    "images\\beetle\\6aab1daded.jpg"
+  ],
+  "(90, 100, 90)": [
+    "images\\antelope\\4e5b190ff0.jpg",
+    "images\\badger\\1f06d5b24c.jpg",
+    "images\\bee\\6bf580fcf5.jpg",
+    "images\\coyote\\7fd29911ac.jpg"
+  ],
+  "(90, 110, 100)": [
+    "images\\bear\\28cf1633e6.jpg",
+    "images\\bear\\4384ef0218.jpg"
+  ],
+  "(90, 110, 110)": [
+    "images\\beetle\\92df7bb742.jpg",
+    "images\\boar\\755f1917ac.jpg",
+    "images\\boar\\962a7fc413.jpg"
+  ],
+  "(90, 110, 120)": [
+    "images\\antelope\\17ddf07f85.jpg",
+    "images\\antelope\\9b08d5d668.jpg",
+    "images\\badger\\7eebcfe7f7.jpg",
+    "images\\boar\\684b815f3d.jpg",
+    "images\\coyote\\1ae720ad3b.jpg"
+  ],
+  "(90, 110, 130)": [
+    "images\\badger\\23bfad16a7.jpg",
+    "images\\badger\\4b889c5467.jpg",
+    "images\\boar\\5297f21f92.jpg",
+    "images\\boar\\5d00af3e3f.jpg"
+  ],
+  "(90, 110, 150)": [
+    "images\\cat\\6edc079fcf.jpg"
+  ],
+  "(90, 110, 90)": [
+    "images\\bear\\090234b385.jpg",
+    "images\\bear\\385cd10acb.jpg"
+  ],
+  "(90, 120, 100)": [
+    "images\\badger\\4c2236afb5.jpg",
+    "images\\butterfly\\27e70134f5.jpg"
+  ],
+  "(90, 120, 110)": [
+    "images\\coyote\\3eb1842a09.jpg"
+  ],
+  "(90, 120, 120)": [
+    "images\\bison\\85e145af6c.jpg"
+  ],
+  "(90, 120, 130)": [
+    "images\\coyote\\39d54d730b.jpg",
+    "images\\crab\\61b7dcd0ae.jpg",
+    "images\\crab\\8f2b6ddbf7.jpg"
+  ],
+  "(90, 120, 140)": [
+    "images\\bee\\82f3842d33.jpg",
+    "images\\bison\\961a895686.jpg",
+    "images\\coyote\\98f084e404.jpg",
+    "images\\deer\\5f9fcc0f37.jpg"
+  ],
+  "(90, 120, 150)": [
+    "images\\antelope\\2efa7906c2.jpg",
+    "images\\beetle\\34ce20c163.jpg",
+    "images\\deer\\5a89ae0b69.jpg"
+  ],
+  "(90, 120, 160)": [
+    "images\\badger\\89a8316cd4.jpg",
+    "images\\dog\\86ca756626.jpg"
+  ],
+  "(90, 130, 120)": [
+    "images\\butterfly\\7ace210e11.jpg"
+  ],
+  "(90, 130, 130)": [
+    "images\\badger\\99e296bf48.jpg",
+    "images\\boar\\2005eb9945.jpg"
+  ],
+  "(90, 130, 140)": [
+    "images\\boar\\580d7cc298.jpg",
+    "images\\boar\\94bbb828ba.jpg",
+    "images\\coyote\\1ce147bf62.jpg"
+  ],
+  "(90, 130, 150)": [
+    "images\\antelope\\9b9623816d.jpg",
+    "images\\crow\\97d6ef43cd.jpg"
+  ],
+  "(90, 130, 160)": [
+    "images\\bison\\1cc556c57a.jpg"
+  ],
+  "(90, 130, 170)": [
+    "images\\antelope\\1db1ad56e5.jpg"
+  ],
+  "(90, 130, 180)": [
+    "images\\cockroach\\722cb41814.jpg"
+  ],
+  "(90, 140, 120)": [
+    "images\\caterpillar\\1c8669c4d6.jpg",
+    "images\\caterpillar\\73d9b459ca.jpg",
+    "images\\cow\\32eae3eecf.jpg"
+  ],
+  "(90, 140, 130)": [
+    "images\\dog\\3f956b8d4c.jpg"
+  ],
+  "(90, 140, 140)": [
+    "images\\bat\\7c5455b078.jpg"
+  ],
+  "(90, 140, 150)": [
+    "images\\badger\\3cf13ad980.jpg",
+    "images\\cow\\928bda9343.jpg"
+  ],
+  "(90, 140, 90)": [
+    "images\\boar\\149cf25549.jpg"
+  ],
+  "(90, 150, 140)": [
+    "images\\cow\\129dd77ad8.jpg",
+    "images\\dog\\8edafffd38.jpg"
+  ],
+  "(90, 150, 150)": [
+    "images\\caterpillar\\85b8f4bcf7.jpg",
+    "images\\coyote\\2b3ff17004.jpg"
+  ],
+  "(90, 150, 160)": [
+    "images\\butterfly\\016caf0681.jpg"
+  ],
+  "(90, 150, 170)": [
+    "images\\crow\\79ecd16df8.jpg",
+    "images\\crow\\8b94b5d529.jpg"
+  ],
+  "(90, 160, 150)": [
+    "images\\bear\\3a8b120f53.jpg"
+  ],
+  "(90, 170, 130)": [
+    "images\\caterpillar\\38a6d42827.jpg"
+  ],
+  "(90, 80, 80)": [
+    "images\\deer\\7a6aa36efe.jpg",
+    "images\\deer\\9bb7e54e3f.jpg"
+  ],
+  "(90, 90, 100)": [
+    "images\\bat\\132f45ab15.jpg",
+    "images\\crow\\71aad6f53b.jpg"
+  ],
+  "(90, 90, 120)": [
+    "images\\crab\\9b74fbf107.jpg"
+  ],
+  "(90, 90, 80)": [
+    "images\\cow\\7ea35b2c27.jpg"
+  ],
+  "(90, 90, 90)": [
+    "images\\bat\\0de51464d4.jpg",
+    "images\\boar\\3d28ab32a5.jpg",
+    "images\\boar\\942a4ed80a.jpg"
+  ]
+}
